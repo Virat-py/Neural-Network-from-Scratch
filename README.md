@@ -14,9 +14,6 @@ This project implements a simple feedforward neural network from scratch to clas
 
 The model is trained using gradient descent and backpropagation. The loss is calculated at each epoch using cross-entropy loss, and the model parameters are updated using the gradients from backpropagation.
 
-The training runs for a 100 epochs, with a learning rate of 0.05. 
-
-The final model achieves an **accuracy of 80.17%** on the test data.
 
 ## Results
 
