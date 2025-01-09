@@ -19,6 +19,9 @@ The model is trained using gradient descent and backpropagation. The loss is cal
 
 Once trained, the model can predict the class of digits in the MNIST test set. The model's accuracy on the test data after 100 epochs of training is **80.17%**.
 
+![Figure_1](https://github.com/user-attachments/assets/a5e8ddd3-917e-4181-947f-16640241874d)
+
+
 ## Technologies Used
 
 - **Python**: The programming language used for the neural network implementation.
